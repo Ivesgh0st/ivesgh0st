@@ -1,16 +1,14 @@
-## Hi there 👋
+💻# 👋 Olá! Eu sou o Ives  
 
-<!--
-**Ivesgh0st/ivesgh0st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas/ Atualmente 4° semestre UNIFOR
+- 💻 Aprendendo Java, Python, Oracle CLOUD e desenvolvimento web 
+- 🚀 Interessado em tecnologia, software e inovação  
 
-Here are some ideas to get you started:
+📫 Como me encontrar:  
+- LinkedIn: https://www.linkedin.com/in/ives-carneiro-593748382?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHes1l1oMTfO%2Fawv7LXfa4A%3D%3D  
+- Email: ivescarneiros@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas
+![Ives GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivesgh0st&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivesgh0st&layout=compact&theme=radical)
