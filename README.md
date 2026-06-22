@@ -1,6 +1,6 @@
 💻# 👋 Olá! Eu sou o Ives  
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas/ Atualmente 4° semestre UNIFOR
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 💻 Aprendendo Java, Python, Oracle CLOUD e desenvolvimento web 
 - 🚀 Interessado em tecnologia, software e inovação  
 
