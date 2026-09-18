@@ -1,8 +1,8 @@
-💻# 👋 Olá! Eu sou o Ives  
+Olá! Eu sou o Ives  
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Aprendendo Java, Python, Oracle CLOUD e desenvolvimento web 
-- 🚀 Interessado em tecnologia, software e inovação  
+-  Estudante de Análise e Desenvolvimento de Sistemas
+-  Aprendendo Java, Python, Oracle CLOUD e desenvolvimento web 
+-  Interessado em tecnologia, software e inovação  
 
 📫 Como me encontrar:  
 - LinkedIn: linkedin.com/in/ives-carneiro-593748382  
@@ -10,7 +10,7 @@
 
 ---
 
-### 📊 Estatísticas
+###Estatísticas
 ![Ives GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivesgh0st&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivesgh0st&layout=compact&theme=radical)
